@@ -6,7 +6,7 @@ conditional_if.py, conditional_elif.py, while.py
 3. Lists. List operations.
 lists.py
 4. For loop. More lists. List comprehensions.
-for.py, more_lists.py, list_generators.py
+for.py, more_lists.py, list_comprehensions.py
 5. Dictionaries. Sets. Tuples.
 dicts_sets_tuples.py
 6. Functions. Lambdas. Decorators.
